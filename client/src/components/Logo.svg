@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Icon: circuit/tech hexagon -->
+  <polygon points="18,5 32,5 39,17 32,29 18,29 11,17" fill="url(#grad)" opacity="0.15"/>
+  <polygon points="18,5 32,5 39,17 32,29 18,29 11,17" fill="none" stroke="url(#grad)" stroke-width="2"/>
+  <circle cx="25" cy="17" r="4" fill="url(#grad)"/>
+  <line x1="25" y1="5" x2="25" y2="11" stroke="url(#grad)" stroke-width="1.5"/>
+  <line x1="25" y1="23" x2="25" y2="29" stroke="url(#grad)" stroke-width="1.5"/>
+  <line x1="11" y1="17" x2="17" y2="17" stroke="url(#grad)" stroke-width="1.5"/>
+  <line x1="33" y1="17" x2="39" y2="17" stroke="url(#grad)" stroke-width="1.5"/>
+  <!-- Text: AR TECH -->
+  <text x="48" y="23" font-family="Inter, system-ui, sans-serif" font-weight="700" font-size="18" fill="url(#grad)">AR TECH</text>
+</svg>
